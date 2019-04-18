@@ -17,3 +17,12 @@ The band is an "off-the-shelf" band that holds the watch in pretty well, we'll b
 This is a DIY kit, and requires some basic soldering/assembly to put together. It is a beginner kit, so this is a fine project to use in learning how to solder. Tools are not included, you'll need a soldering iron, solder and diagonal cutters as a minimum. [Check the tutorial page for details on what tools and steps are required to assemble.](http://learn.adafruit.com/timesquare-watch-kit). Take about 1-2 hours to put together. Build it in the afternoon and you'll be done in time to hit the clubs in the evening.
 
 [For more information and downloads check out the page in the Adafruit Learning System.](http://learn.adafruit.com/timesquare-watch-kit)
+
+## License
+Adafruit invests time and resources providing this open source design,
+please support Adafruit and open-source hardware by purchasing
+products from Adafruit!
+
+Designed by Adafruit Industries.
+Creative Commons Attribution, Share-Alike license, check license.txt for more information
+All text above must be included in any redistribution
